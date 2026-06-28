@@ -150,7 +150,7 @@ Surfaces the drivers of employee turnover to support retention strategy.
 ## Project Structure
 
 - **Power BI Dashboard**  
-  - [video_ad_performance_dashboard.pbix](https://github.com/randypaul411-collab/Power-BI-Dashboard-Video-Ads-Performance-Analysis/blob/main/Video_ads_analysis.pbix)  
+  - [HR Analytics.pbix](https://github.com/randypaul411-collab/HR-Analytics-Power-BI-Dashboard/blob/main/HR%20Analytics.pbix)  
 
 ---
 

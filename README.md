@@ -4,7 +4,10 @@
 ![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-6B46C1?style=flat)
 ![Pages](https://img.shields.io/badge/Report%20Pages-4-20B2AA?style=flat)
 
-An end-to-end HR analytics report built in **Power BI**, covering workforce headcount, employee demographics, individual performance tracking, and attrition risk across four interactive report pages.
+This project presents an interactive Power BI dashboard designed to analyze workforce dynamics and employee 
+	attrition across a mid-sized organization. The dashboard provides a clear and structured view of key HR metrics,
+	enabling HR business partners and senior leadership to quickly understand headcount trends, demographic composition, 
+								individual performance trajectories, and the key drivers behind employee turnover. 
 ---
 
 ## Dashboard Preview
